@@ -5,6 +5,7 @@ package satpractice;
 public class two {
 	public void print() {
 		System.out.println("Hi my name is Meenakshi Mishra");
+		System.out.println("Hi my name is Meenakshi Mishra");
 	}
 
 	public static void main(String[] args) {
